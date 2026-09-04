@@ -1,7 +1,8 @@
-## Hi there 👋
-## My name is Carson
+# Hi! I'm Carson!
 - I am a Computer Engineering student @ SDSU 
-- I am interested in all things computers in cluding ahrdware and software aspects!
+- I am interested in embedded programming and working on projects in the embedded field!
+-My hobbies include video games, music, going to the beach, and tinkering with electronics
+-My current experience is with C/C++, Python, MIPS, and a little bit of C#
 
 <!--
 **Ctownz-13/Ctownz-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
