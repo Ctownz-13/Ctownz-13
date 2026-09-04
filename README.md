@@ -1,7 +1,7 @@
 # Hi! I'm Carson!
 - I am a Computer Engineering student @ SDSU 
 - I am interested in embedded programming and working on projects in the embedded field!
-- My hobbies include video games, music, anime going to the beach, and tinkering with electronics
+- My hobbies include video games, music, anime, going to the beach, and tinkering with electronics
 - My current experience is with C/C++, Python, MIPS, and a little bit of C#
 
 <!--
