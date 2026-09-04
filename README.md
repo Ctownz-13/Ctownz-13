@@ -1,6 +1,7 @@
 ## Hi there 👋
 ## My name is Carson
-- I am a Computer Engineering student @ SDSU -
+- I am a Computer Engineering student @ SDSU 
+- I am interested in all things computers in cluding ahrdware and software aspects!
 
 <!--
 **Ctownz-13/Ctownz-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
